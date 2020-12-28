@@ -1,0 +1,2 @@
+[1222/204307.218:ERROR:process_info.cc(359)] UncheckedAllocate
+[1222/204821.916:ERROR:file_io.cc(135)] WriteFile: Le canal de communication est sur le point d’être fermé. (0xE8)
